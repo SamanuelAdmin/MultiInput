@@ -3,7 +3,10 @@
 
 <i>A project for making easier connections and sync between different types of devices (keyboards, mice, headphones, microphones, cameras, etc.) using various computers on a local network.</i>
 
-![photo_2025-04-14_12-19-31](https://github.com/user-attachments/assets/0867071d-6c2e-4cd8-8e0d-af534a3bb9f7)
+<div style="display: flex">
+    <img src="https://github.com/user-attachments/assets/0867071d-6c2e-4cd8-8e0d-af534a3bb9f7" style="max-height: 450px;">
+    <img src="https://github.com/user-attachments/assets/1f38fc39-7687-4c3d-abab-9b26e17d4c73" style="max-height: 450px;">
+</div>
 
 <p>
 The goal of the project is to create software that <strong>combines different systems and input devices into one</strong> via local network, so users can work more easily without setting up each part separately and <strong>with minimal delays</strong>.
