@@ -1,2 +1,3 @@
-# MultiInput
-Demo project to demonstrate the base functions
+<h1>Multi Input [demo]</h1>
+<hr>
+
