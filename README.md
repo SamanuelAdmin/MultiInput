@@ -7,3 +7,11 @@
 <i>A project for making easier connections and sync between different types of devices (keyboards, mice, headphones, microphones, cameras, etc.) using various computers on a local network.</i>
 
 
+<p>
+The goal of the project is to create software that combines different systems and input devices into one, so users can work more easily without setting up each part separately and with minimal delays.
+The idea for the project came up back in 2024, when our team was developing and testing cross-platform apps. Existing solutions like AnyDesk and TeamViewer didn’t offer the interface we needed, were too slow, and didn’t support multiple devices comfortably.
+</p>
+<p>The project is at the stage of developing the first prototype right now. You can share your ideas for the project in the “issues” section — this will help us notice your comment faster.</p>
+
+
+:star: And star us on GitHub — it motivates us a lot!
