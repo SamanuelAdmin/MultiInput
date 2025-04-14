@@ -3,9 +3,9 @@
 
 <i>A project for making easier connections and sync between different types of devices (keyboards, mice, headphones, microphones, cameras, etc.) using various computers on a local network.</i>
 
-<div style="display: flex">
-    <img src="https://github.com/user-attachments/assets/0867071d-6c2e-4cd8-8e0d-af534a3bb9f7" style="max-height: 450px;">
-    <img src="https://github.com/user-attachments/assets/1f38fc39-7687-4c3d-abab-9b26e17d4c73" style="max-height: 450px;">
+<div style="display: flex; justify-content: center;	align-items: center;">
+    <img src="https://github.com/user-attachments/assets/0867071d-6c2e-4cd8-8e0d-af534a3bb9f7" style="height: 450px;">
+    <img src="https://github.com/user-attachments/assets/1f38fc39-7687-4c3d-abab-9b26e17d4c73" style="height: 450px;">
 </div>
 
 <p>
