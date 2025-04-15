@@ -9,15 +9,16 @@ class IQueue(ABC):
     def isEmpty(self) -> bool: ...
 
 
-class Queue:
+class StrQueue:
     def __init__(self):
         self.__elements: list = []
 
-    def add(self, obj: object) -> None:
+    def add(self, obj: str) -> None:
         self.__elements.append(obj)
 
-    def get(self) -> object:
-        self.__elements.pop(0)
+    def get(self) -> str:
+        try: return self.__elements.pop(0)
+        except IndexError: return None
 
     def isEmpty(self) -> bool:
         return len(self.__elements) == 0
